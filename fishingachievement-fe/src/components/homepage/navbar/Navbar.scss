@@ -1,0 +1,22 @@
+.navbar-fish {
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #000;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-color: transparent;
+  //border: 1px solid purple;
+
+  .search-bar {
+    width: 600px;
+    height: 40px;
+    border: 1px solid #000;
+    border-radius: 5px;
+  }
+
+  .search-button-box {
+    margin-left: -30px;
+    font-size: 20px;
+  }
+
+}
