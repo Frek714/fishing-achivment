@@ -24,7 +24,7 @@ class Navbar extends Component {
             <div className="col-8 offset-2">
               <input type="text" defaultValue="" className="search-bar" onChange={this.search.bind(this)}/>
               <span className="search-button-box"><FontAwesomeIcon icon={faSearch}/></span>
-            </div>
+            </div>n
           </div>
         </div>
       </>

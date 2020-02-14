@@ -2,26 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43a5726f-2082-483a-8947-afab899bd7ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/.idea/fishingachievement-fe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/Homepage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/Homepage.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/footer/Footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/navbar/Navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/pageContent/PageContent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/pageContent/PageContent.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/pageContent/box/Box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/pageContent/box/Box.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishingachievement-fe/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fishingachievement-fe/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishingachievement-fe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fishingachievement-fe/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishingachievement-fe/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishingachievement-fe/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fishingachievement-fe/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/.idea/dictionaries/federico_dursi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/.idea/fishingachievement-mobile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/components/homepage/Homepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/components/homepage/footer/navbar/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/components/homepage/header/searchbar/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/components/homepage/pageContent/PageContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fishingachievement-mobile/components/homepage/pageContent/box/Box.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fishingachievement-fe/src/components/homepage/navbar/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -145,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -278,7 +270,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581438321400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581690259762" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -333,13 +325,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14663000" />
+    <option name="totallyTimeSpent" value="14910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22771673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19861555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -350,7 +341,7 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25714287" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24950495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
